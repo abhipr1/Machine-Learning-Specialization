@@ -1,1 +1,1 @@
-#### First course in machine learning specialization
+Repo for programming assignments for Machine Learning Specialization Assignments.
