@@ -1,1 +1,1 @@
-Repo for programming assignments for Machine Learning Specialization Assignments.
+Repo for programming assignments for Machine Learning Specialization.
